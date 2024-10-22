@@ -1,0 +1,122 @@
+[
+  {
+    "id": "101",
+    "title": "Mobile Phone",
+    "catergory":"MOBILE_TABLET",
+    "hasChildren": true,
+    "image": null,
+    "children": [
+      {
+        "id": "1011",
+        "title": "Samsung",
+        "hasChildren": false,
+        "image": "samsung.png"
+      },
+      {
+        "id": "1012",
+        "title": "IPhone", 
+        "hasChildren": false,
+        "image": "iphone.png"
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "title": "Mobile Accessories",
+    "catergory":"MOBILE_TABLET",
+    "hasChildren": true,
+    "image": null,
+    "children": [
+      {
+        "id": "1021",
+        "title": "Cases & Cover",
+        "hasChildren": false,
+        "image": "case.png"
+      },
+      {
+        "id": "1022",
+        "title": "Cable",
+        "hasChildren": false,
+        "image": "cable.png"
+      },
+      {
+        "id": "1023",
+        "title": "Chargers",
+        "hasChildren": false,
+        "image": "apple-charger.png"
+      }
+    ]
+  },
+  {
+    "id": "201",
+    "title": "Camera",
+    "catergory":"DIGITAL_GADGETS",
+    "hasChildren": true,
+    "image": null,
+    "children": [
+      {
+        "id": "2011",
+        "title": "Action Camera",
+        "hasChildren": false,
+        "image": "camera.png"
+      }
+    ]
+  },
+  {
+    "id": "202",
+    "title": "Wearables",
+    "catergory":"DIGITAL_GADGETS",
+    "hasChildren": true,
+    "image": null,
+    "children": [
+      {
+        "id": "2021",
+        "title": "Smart Bands",
+        "hasChildren": false,
+        "image": "smartwatch.png"
+      },
+      {
+        "id": "2022",
+        "title": "Earbuds",
+        "hasChildren": false,
+        "image": "earbud.png"
+      }
+    ]
+  },
+  {
+    "id": "301",
+    "title": "Laptops",
+    "catergory":"COMPUTER_LAPTOP",
+    "hasChildren": true,
+    "image": null,
+    "children": [
+      {
+        "id": "3011",
+        "title": "Gaming",
+        "hasChildren": false,
+        "image": "gaming.png"
+      },
+      {
+        "id": "3012",
+        "title": "Macbook",
+        "hasChildren": false,
+        "image": "macbook.png"
+      }
+    ]
+  },
+  {
+    "id": "302",
+    "title": "Monitors",
+    "catergory":"COMPUTER_LAPTOP",
+    "hasChildren": true,
+    "image": null,
+    "children": [
+      {
+        "id": "3021",
+        "title": "Gaming monitors",
+        "hasChildren": false,
+        "image": "./monitor.png"
+      }
+    ]
+  }
+]

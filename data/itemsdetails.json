@@ -1,0 +1,123 @@
+[
+  {
+    "id": "1011",
+    "title": "Samsung Galaxy S23 Ultra 5G (12GB + 256GB/512GB), Android phone",
+    "hasChildren": false,
+    "image": "samsung.png",
+    "catergory": "MOBILE_TABLET",
+    "inStock": true,
+    "price": 2099,
+    "currentPrice": 1689,
+    "rate": 4
+  },
+  {
+    "id": "1012",
+    "title": "Apple iPhone 15 Pro Max",
+    "hasChildren": false,
+    "image": "iphone.png",
+    "catergory": "MOBILE_TABLET",
+    "inStock": true,
+    "price": 6999,
+    "currentPrice": 4999,
+    "rate": 5
+  },
+  {
+    "id": "1021",
+    "title": "iPhone 15 Plus Silicone Case with MagSafe",
+    "hasChildren": false,
+    "image": "iphonecase.png",
+    "catergory": "MOBILE_TABLET",
+    "inStock": true,
+    "price": 59,
+    "currentPrice": 39,
+    "rate": 2
+  },
+  {
+    "id": "1022",
+    "title": "Apple USB-C Charge Cable (1 M)",
+    "hasChildren": false,
+    "image": "cable.png",
+    "catergory": "MOBILE_TABLET",
+    "inStock": true,
+    "price": 19,
+    "currentPrice": 9,
+    "rate": 4
+  },
+  {
+    "id": "1023",
+    "title": "Apple 35W Dual USB-C Port Power Adapter",
+    "hasChildren": false,
+    "image": "apple-charger.png",
+    "catergory": "MOBILE_TABLET",
+    "inStock": true,
+    "price": 99,
+    "currentPrice": 89,
+    "rate": 4
+  },
+  {
+    "id": "2011",
+    "title": "DJI Action 5 Pro",
+    "hasChildren": false,
+    "image": "camera.png",
+    "catergory": "DIGITAL_GADGETS",
+    "inStock": false,
+    "price": 1999,
+    "currentPrice": 899,
+    "rate": 4
+  },
+  {
+    "id": "2021",
+    "title": "Xiaomi Smart Band 9",
+    "hasChildren": false,
+    "image": "smartwatch.png",
+    "catergory": "DIGITAL_GADGETS",
+    "inStock": true,
+    "price": 199,
+    "currentPrice": 89,
+    "rate": 2
+  },
+  {
+    "id": "2022",
+    "title": "AirPods 4",
+    "hasChildren": false,
+    "image": "airpod.png",
+    "catergory": "DIGITAL_GADGETS",
+    "inStock": true,
+    "price": 599,
+    "currentPrice": 299,
+    "rate": 3
+  },
+  {
+    "id": "3011",
+    "title": "MSI Pro MP225 21.5 FHD",
+    "hasChildren": false,
+    "image": "gaming.png",
+    "catergory": "COMPUTER_LAPTOP",
+    "inStock": true,
+    "price": 3899,
+    "currentPrice": 2899,
+    "rate": 3
+  },
+  {
+    "id": "3012",
+    "title": "Macbook Air M3",
+    "hasChildren": false,
+    "image": "macbook.png",
+    "catergory": "COMPUTER_LAPTOP",
+    "inStock": true,
+    "price": 5999,
+    "currentPrice": 3899,
+    "rate": 4
+  },
+  {
+    "id": "3021",
+    "title": "ACER NITRO",
+    "hasChildren": false,
+    "image": "./monitor.png",
+    "catergory": "COMPUTER_LAPTOP",
+    "inStock": false,
+    "price": 1899,
+    "currentPrice": 999,
+    "rate": 5
+  }
+]
